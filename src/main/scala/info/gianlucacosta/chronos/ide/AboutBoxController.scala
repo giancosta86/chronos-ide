@@ -54,10 +54,6 @@ class AboutBoxController {
   }
 
 
-  def showFacebookPage() {
-    DesktopUtils.openBrowser(IdeInfo.facebookPage)
-  }
-
   def showOmniEditorPage() {
     DesktopUtils.openBrowser("https://github.com/giancosta86/OmniEditor")
   }

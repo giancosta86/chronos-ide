@@ -20,8 +20,6 @@
                     <children>
                         <Button minHeight="40.0" minWidth="150.0" mnemonicParsing="false"
                                 onAction="#showLanguageWebsite" text="Chronos website"/>
-                        <Button minHeight="40.0" minWidth="150.0" mnemonicParsing="false" onAction="#showFacebookPage"
-                                text="Facebook page"/>
                         <Button minHeight="40.0" minWidth="150.0" mnemonicParsing="false" onAction="#showOmniEditorPage"
                                 text="OmniEditor"/>
                     </children>
