@@ -31,7 +31,6 @@ mainClassName = 'info.gianlucacosta.chronos.ide.App'
 dependencies {
     compile 'org.scala-lang:scala-library:2.11.8'
 
-    compile 'info.gianlucacosta.helios:helios-fx:7.0.0-SNAPSHOT'
     compile 'info.gianlucacosta.omnieditor:omnieditor:6.0.0-SNAPSHOT'
     compile 'info.gianlucacosta.chronos:chronos:5.0.0-SNAPSHOT'
 }
